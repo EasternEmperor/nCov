@@ -1,5 +1,5 @@
 # nCov
-python course final homework
+**Python Course Final Homework**
 
 # 数据来源
 网址：https://www.worldometers.info/coronavirus/#countries
